@@ -1,5 +1,4 @@
 # RDAS — Reference Data Aggregation Service
-**NCBA Loop DFS | Digital Business Team**
 
 Single REST/JSON API that acts as the source of truth for all country, currency, language and geographical reference data across NCBA Loop channels.
 
