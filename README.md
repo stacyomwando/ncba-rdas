@@ -1,6 +1,6 @@
 # RDAS — Reference Data Aggregation Service
 
-Single REST/JSON API that acts as the source of truth for all country, currency, language and geographical reference data across NCBA Loop channels.
+Single REST/JSON API that acts as the source of truth for all country, currency, language and geographical reference data across digital channels.
 
 ---
 
