@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rdas-config
+  namespace: rdas
+data:
+  SOAP_SERVICE_URL: "http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso"
+  CACHE_TTL_HOURS: "24"
